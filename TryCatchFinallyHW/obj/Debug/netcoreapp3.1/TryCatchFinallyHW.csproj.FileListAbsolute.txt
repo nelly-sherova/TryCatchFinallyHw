@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\HomeWork\TryCatchFinallyHW\TryCatchFinallyHW\bin\Debug\netcoreapp3.1\TryCatchFinallyHW.exe
+C:\Users\ASUS\Desktop\HomeWork\TryCatchFinallyHW\TryCatchFinallyHW\bin\Debug\netcoreapp3.1\TryCatchFinallyHW.deps.json
+C:\Users\ASUS\Desktop\HomeWork\TryCatchFinallyHW\TryCatchFinallyHW\bin\Debug\netcoreapp3.1\TryCatchFinallyHW.runtimeconfig.json
+C:\Users\ASUS\Desktop\HomeWork\TryCatchFinallyHW\TryCatchFinallyHW\bin\Debug\netcoreapp3.1\TryCatchFinallyHW.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\HomeWork\TryCatchFinallyHW\TryCatchFinallyHW\bin\Debug\netcoreapp3.1\TryCatchFinallyHW.dll
+C:\Users\ASUS\Desktop\HomeWork\TryCatchFinallyHW\TryCatchFinallyHW\bin\Debug\netcoreapp3.1\TryCatchFinallyHW.pdb
+C:\Users\ASUS\Desktop\HomeWork\TryCatchFinallyHW\TryCatchFinallyHW\obj\Debug\netcoreapp3.1\TryCatchFinallyHW.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\HomeWork\TryCatchFinallyHW\TryCatchFinallyHW\obj\Debug\netcoreapp3.1\TryCatchFinallyHW.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\HomeWork\TryCatchFinallyHW\TryCatchFinallyHW\obj\Debug\netcoreapp3.1\TryCatchFinallyHW.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\HomeWork\TryCatchFinallyHW\TryCatchFinallyHW\obj\Debug\netcoreapp3.1\TryCatchFinallyHW.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HomeWork\TryCatchFinallyHW\TryCatchFinallyHW\obj\Debug\netcoreapp3.1\TryCatchFinallyHW.dll
+C:\Users\ASUS\Desktop\HomeWork\TryCatchFinallyHW\TryCatchFinallyHW\obj\Debug\netcoreapp3.1\TryCatchFinallyHW.pdb
+C:\Users\ASUS\Desktop\HomeWork\TryCatchFinallyHW\TryCatchFinallyHW\obj\Debug\netcoreapp3.1\TryCatchFinallyHW.genruntimeconfig.cache
